@@ -21,7 +21,7 @@
     - [ ] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
     - [ ] Faster computation can help speed up how long a team takes to iterate to a good idea. 
     - [ ] It is faster to train on a big dataset than a small dataset.
-    - [x] Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).
+    - [ ] Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).
 
     Note: A bigger dataset generally requires more time to train on a same model.
 
